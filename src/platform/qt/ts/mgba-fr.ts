@@ -112,7 +112,7 @@ Game Boy Advance est une marque de fabrique enregistré par Nintendo Co., Ltd.</
     <message>
         <location filename="../BattleChipView.ui" line="14"/>
         <source>BattleChip Gate</source>
-        <translation type="unfinished"></translation>
+        <translation>BattleChip Gate</translation>
     </message>
     <message>
         <location filename="../BattleChipView.ui" line="67"/>
@@ -152,12 +152,12 @@ Game Boy Advance est une marque de fabrique enregistré par Nintendo Co., Ltd.</
     <message>
         <location filename="../BattleChipView.ui" line="145"/>
         <source>Ba&amp;ttleChip Gate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ba&amp;ttleChip Gate</translation>
     </message>
     <message>
         <location filename="../BattleChipView.ui" line="155"/>
         <source>Progress &amp;Gate</source>
-        <translation type="unfinished"></translation>
+        <translation>Progress &amp;Gate</translation>
     </message>
     <message>
         <location filename="../BattleChipView.ui" line="162"/>
@@ -1415,17 +1415,17 @@ Game Boy Advance est une marque de fabrique enregistré par Nintendo Co., Ltd.</
     <message>
         <location filename="../IOViewer.cpp" line="31"/>
         <source>Mode 0: 4 tile layers</source>
-        <translation>Mode 0: 4 tile layers</translation>
+        <translation>Mode 0 : 4 couches de tuile</translation>
     </message>
     <message>
         <location filename="../IOViewer.cpp" line="32"/>
         <source>Mode 1: 2 tile layers + 1 rotated/scaled tile layer</source>
-        <translation>Mode 1: 2 tile layers + 1 rotated/scaled tile layer</translation>
+        <translation>Mode 1 : 2 couches de tuiles + 1 couche de tuiles pivotée / mise à l&apos;échelle</translation>
     </message>
     <message>
         <location filename="../IOViewer.cpp" line="33"/>
         <source>Mode 2: 2 rotated/scaled tile layers</source>
-        <translation>Mode 2: 2 rotated/scaled tile layers</translation>
+        <translation>Mode 2 : 2 couches de tuiles pivotées / mises à l&apos;échelle</translation>
     </message>
     <message>
         <location filename="../IOViewer.cpp" line="34"/>
@@ -2885,7 +2885,7 @@ Game Boy Advance est une marque de fabrique enregistré par Nintendo Co., Ltd.</
     <message>
         <location filename="../LogController.cpp" line="68"/>
         <source>[%1] %2: %3</source>
-        <translation>[%1] %2: %3</translation>
+        <translation>[%1] %2 : %3</translation>
     </message>
     <message>
         <location filename="../LogController.cpp" line="79"/>
@@ -4192,7 +4192,7 @@ Game Boy Advance est une marque de fabrique enregistré par Nintendo Co., Ltd.</
     <message>
         <location filename="../ROMInfo.ui" line="26"/>
         <source>Game name:</source>
-        <translation>Nom du jeu :</translation>
+        <translation>Nom du jeu :</translation>
     </message>
     <message>
         <location filename="../ROMInfo.ui" line="33"/>
